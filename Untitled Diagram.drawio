@@ -10,6 +10,18 @@
         <mxCell id="rfiSgZxfOolpitJeeGe8-2" value="router&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Virtual_Router.svg;" vertex="1" parent="1">
           <mxGeometry x="376" y="530" width="68" height="68" as="geometry" />
         </mxCell>
+        <mxCell id="rfiSgZxfOolpitJeeGe8-3" value="Internet&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="345" y="340" width="115" height="72.45" as="geometry" />
+        </mxCell>
+        <mxCell id="rfiSgZxfOolpitJeeGe8-4" value="&lt;div style=&quot;text-align: start;&quot;&gt;The Hive&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="570" y="330" width="115" height="72.45" as="geometry" />
+        </mxCell>
+        <mxCell id="rfiSgZxfOolpitJeeGe8-5" value="&lt;div style=&quot;text-align: start;&quot;&gt;Wazuh Manager&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="120" y="340" width="115" height="72.45" as="geometry" />
+        </mxCell>
+        <mxCell id="rfiSgZxfOolpitJeeGe8-6" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Times&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 15px; white-space: pre-wrap; background-color: rgb(0, 0, 0);&quot;&gt;Shuffle&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="345" y="110" width="115" height="72.45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
